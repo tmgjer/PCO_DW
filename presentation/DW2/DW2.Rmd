@@ -42,6 +42,12 @@ Examples:
 2. Visual of theoretical model or process
 3. Visual abstract (even a video)]
 
+--
+
+<br>
+
+![](capture.jpg)
+
 ---
 background-image: url(ru_en_kleur.jpg)
 background-size: 20%
@@ -102,7 +108,6 @@ background-position: 95% 5%
 - Informative
 - Goal
 ]
---
 
 
 ---
@@ -346,3 +351,18 @@ Step 3: **Sketch!** Get out your notepads and sketch different chart types for t
 --
 
 Step 4: **Create!** Use a software program to create the chart you decided. All the information you could possibly need is on the internet.
+
+
+---
+background-image: url(ru_en_kleur.jpg)
+background-size: 20%
+background-position: 95% 5%
+## Now it's your turn
+
+All code used for this presentation are on my [github](https://github.com/tmgjer/PCO_DW). 
+
+Presentation made in R with the Xaringan package.
+
+
+
+
