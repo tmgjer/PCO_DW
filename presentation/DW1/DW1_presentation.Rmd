@@ -1,0 +1,44 @@
+---
+title: "Data Workshop 1"
+author: "Thijmen Jeroense <br /> <br /> <br /> Department of Sociology/ICS"
+date: "11-05-22"
+output:
+  xaringan::moon_reader:
+    css: ["default", "theme.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Data Workshop
+- Getting familiar with data transformation in SPSS with complex data
+- Creating post-materialism scores
+- Examples of problem solving 
+
+---
+
+# Format
+- In small groups, preferably in pairs
+- We are available for questions; please ask them!
+- Don't be afraid and don't panic; you can do it!
+
+---
+
+# Time-schedule
+- 13.30: Welcome and introduction (section 1)
+- 13.40: Section 2 and 3
+- 14.05: Recap of section 2 and 3
+- 14.15: 15 minute break
+- 14.30: Section 4
+- 15.00: Recap of section 4  
+
+
+
